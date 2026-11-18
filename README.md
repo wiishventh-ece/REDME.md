@@ -1,0 +1,2 @@
+# REDME.md
+Hello! I am an Electronics and Communication Engineering student with a strong interest in technology, programming, and innovation. I am currently learning C programming and exploring areas such as Artificial Intelligence, Internet of Things (IoT), and electronics. I enjoy learning new technologies, improving my problem-solving skills, and working on projects that help me gain practical knowledge. I am always excited to explore new opportunities, develop my skills, and turn my ideas into reality.
